@@ -1,0 +1,87 @@
+From MAILER-DAEMON at mail.berlios.de  Sun Feb 18 20:07:15 2007
+From: MAILER-DAEMON at mail.berlios.de (Mail Delivery System)
+Date: Sun, 18 Feb 2007 20:07:15 +0100 (CET)
+Subject: [genkdesvn-bugs] Undelivered Mail Returned to Sender
+Message-ID: <20070218190715.CAB28D88A9@mail.berlios.de>
+
+This is the Postfix program at host mail.berlios.de.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+			The Postfix program
+
+<mtanev at csua.berkeley.edu>: host mead.csua.berkeley.edu[128.32.112.232] said:
+    550-recipient address mtanev at csua.berkeley.edu is disabled due to
+    inactivity.  550 Sorry. (in reply to RCPT TO command)
+-------------- next part --------------
+An embedded message was scrubbed...
+From: genkdesvn-bugs at bat.berlios.de
+Subject: [genkdesvn 0000140]: Digikam and libkipi depends on libkexiv2
+Date: Sun, 18 Feb 2007 20:04:15 +0100
+Size: 2955
+URL: <https://lists.berlios.de/pipermail/genkdesvn-bugs/attachments/20070218/e3c6f7fd/attachment.mht>
+
+From MAILER-DAEMON at mail.berlios.de  Mon Feb 19 10:12:43 2007
+From: MAILER-DAEMON at mail.berlios.de (Mail Delivery System)
+Date: Mon, 19 Feb 2007 10:12:43 +0100 (CET)
+Subject: [genkdesvn-bugs] Undelivered Mail Returned to Sender
+Message-ID: <20070219091243.664E5D89F0@mail.berlios.de>
+
+This is the Postfix program at host mail.berlios.de.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+			The Postfix program
+
+<mtanev at csua.berkeley.edu>: host mead.csua.berkeley.edu[128.32.112.232] said:
+    550-recipient address mtanev at csua.berkeley.edu is disabled due to
+    inactivity.  550 Sorry. (in reply to RCPT TO command)
+-------------- next part --------------
+An embedded message was scrubbed...
+From: genkdesvn-bugs at bat.berlios.de
+Subject: [genkdesvn 0000141]: Kipi-plugins requires libkdcraw
+Date: Mon, 19 Feb 2007 10:10:03 +0100
+Size: 2852
+URL: <https://lists.berlios.de/pipermail/genkdesvn-bugs/attachments/20070219/ffdf8ce4/attachment.mht>
+
+From MAILER-DAEMON at mail.berlios.de  Sun Feb 25 00:14:58 2007
+From: MAILER-DAEMON at mail.berlios.de (Mail Delivery System)
+Date: Sun, 25 Feb 2007 00:14:58 +0100 (CET)
+Subject: [genkdesvn-bugs] Undelivered Mail Returned to Sender
+Message-ID: <20070224231458.B62E3DC7F4@mail.berlios.de>
+
+This is the Postfix program at host mail.berlios.de.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+			The Postfix program
+
+<mtanev at csua.berkeley.edu>: host mead.csua.berkeley.edu[128.32.112.232] said:
+    550-recipient address mtanev at csua.berkeley.edu is disabled due to
+    inactivity.  550 Sorry. (in reply to RCPT TO command)
+-------------- next part --------------
+An embedded message was scrubbed...
+From: genkdesvn-bugs at bat.berlios.de
+Subject: [genkdesvn 0000117]: Restore the keepobj feature
+Date: Sun, 25 Feb 2007 00:11:53 +0100
+Size: 3775
+URL: <https://lists.berlios.de/pipermail/genkdesvn-bugs/attachments/20070225/b8902d1a/attachment.mht>
+

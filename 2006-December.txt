@@ -1,0 +1,348 @@
+From MAILER-DAEMON at bat.berlios.de  Fri Dec  1 17:36:52 2006
+From: MAILER-DAEMON at bat.berlios.de (Mail Delivery System)
+Date: Fri,  1 Dec 2006 17:36:52 +0100 (CET)
+Subject: [genkdesvn-bugs] Undelivered Mail Returned to Sender
+Message-ID: <20061201163652.6343EB6105@bat.berlios.de>
+
+This is the Postfix program at host bat.berlios.de.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+			The Postfix program
+
+<mtanev at csua.berkeley.edu>: host soda.csua.berkeley.edu[128.32.112.233] said:
+    553 5.3.0 <mtanev at csua.berkeley.edu>... Account disabled due to inactivity.
+    Sorry (in reply to RCPT TO command)
+-------------- next part --------------
+An embedded message was scrubbed...
+From: genkdesvn-bugs at bat.berlios.de
+Subject: [Gentoo KDE SVN Bugtracker] Account registration
+Date: Fri, 1 Dec 2006 17:31:52 +0100
+Size: 1256
+URL: <https://lists.berlios.de/pipermail/genkdesvn-bugs/attachments/20061201/3daea201/attachment.mht>
+
+From MAILER-DAEMON at bat.berlios.de  Fri Dec  1 17:41:08 2006
+From: MAILER-DAEMON at bat.berlios.de (Mail Delivery System)
+Date: Fri,  1 Dec 2006 17:41:08 +0100 (CET)
+Subject: [genkdesvn-bugs] Undelivered Mail Returned to Sender
+Message-ID: <20061201164108.7C63DB6126@bat.berlios.de>
+
+This is the Postfix program at host bat.berlios.de.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+			The Postfix program
+
+<mtanev at csua.berkeley.edu>: host soda.csua.berkeley.edu[128.32.112.233] said:
+    553 5.3.0 <mtanev at csua.berkeley.edu>... Account disabled due to inactivity.
+    Sorry (in reply to RCPT TO command)
+-------------- next part --------------
+An embedded message was scrubbed...
+From: genkdesvn-bugs at bat.berlios.de
+Subject: [genkdesvn 0000123]: emerge taglib fails
+Date: Fri, 1 Dec 2006 17:36:10 +0100
+Size: 3967
+URL: <https://lists.berlios.de/pipermail/genkdesvn-bugs/attachments/20061201/2d297f31/attachment.mht>
+
+From MAILER-DAEMON at bat.berlios.de  Fri Dec  1 17:42:47 2006
+From: MAILER-DAEMON at bat.berlios.de (Mail Delivery System)
+Date: Fri,  1 Dec 2006 17:42:47 +0100 (CET)
+Subject: [genkdesvn-bugs] Undelivered Mail Returned to Sender
+Message-ID: <20061201164247.70454B60E9@bat.berlios.de>
+
+This is the Postfix program at host bat.berlios.de.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+			The Postfix program
+
+<mtanev at csua.berkeley.edu>: host soda.csua.berkeley.edu[128.32.112.233] said:
+    553 5.3.0 <mtanev at csua.berkeley.edu>... Account disabled due to inactivity.
+    Sorry (in reply to RCPT TO command)
+-------------- next part --------------
+An embedded message was scrubbed...
+From: genkdesvn-bugs at bat.berlios.de
+Subject: [genkdesvn 0000124]: kopete digests incorrect
+Date: Fri, 1 Dec 2006 17:37:48 +0100
+Size: 3365
+URL: <https://lists.berlios.de/pipermail/genkdesvn-bugs/attachments/20061201/dcfea32c/attachment.mht>
+
+From MAILER-DAEMON at bat.berlios.de  Fri Dec  1 17:46:50 2006
+From: MAILER-DAEMON at bat.berlios.de (Mail Delivery System)
+Date: Fri,  1 Dec 2006 17:46:50 +0100 (CET)
+Subject: [genkdesvn-bugs] Undelivered Mail Returned to Sender
+Message-ID: <20061201164650.EE8C8B4C6F@bat.berlios.de>
+
+This is the Postfix program at host bat.berlios.de.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+			The Postfix program
+
+<mtanev at csua.berkeley.edu>: host soda.csua.berkeley.edu[128.32.112.233] said:
+    553 5.3.0 <mtanev at csua.berkeley.edu>... Account disabled due to inactivity.
+    Sorry (in reply to RCPT TO command)
+-------------- next part --------------
+An embedded message was scrubbed...
+From: genkdesvn-bugs at bat.berlios.de
+Subject: [genkdesvn 0000125]: error in kompose ebuild
+Date: Fri, 1 Dec 2006 17:41:52 +0100
+Size: 3563
+URL: <https://lists.berlios.de/pipermail/genkdesvn-bugs/attachments/20061201/d7f8c7a8/attachment.mht>
+
+From MAILER-DAEMON at bat.berlios.de  Sat Dec  2 20:39:46 2006
+From: MAILER-DAEMON at bat.berlios.de (Mail Delivery System)
+Date: Sat,  2 Dec 2006 20:39:46 +0100 (CET)
+Subject: [genkdesvn-bugs] Undelivered Mail Returned to Sender
+Message-ID: <20061202193946.26F9AB6A2F@bat.berlios.de>
+
+This is the Postfix program at host bat.berlios.de.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+			The Postfix program
+
+<mtanev at csua.berkeley.edu>: host soda.csua.berkeley.edu[128.32.112.233] said:
+    553 5.3.0 <mtanev at csua.berkeley.edu>... Account disabled due to inactivity.
+    Sorry (in reply to RCPT TO command)
+-------------- next part --------------
+An embedded message was scrubbed...
+From: genkdesvn-bugs at bat.berlios.de
+Subject: [genkdesvn 0000126]: showimg fails build
+Date: Sat, 2 Dec 2006 20:34:44 +0100
+Size: 4225
+URL: <https://lists.berlios.de/pipermail/genkdesvn-bugs/attachments/20061202/c2c8d7e5/attachment.mht>
+
+From MAILER-DAEMON at bat.berlios.de  Sat Dec  2 23:58:33 2006
+From: MAILER-DAEMON at bat.berlios.de (Mail Delivery System)
+Date: Sat,  2 Dec 2006 23:58:33 +0100 (CET)
+Subject: [genkdesvn-bugs] Undelivered Mail Returned to Sender
+Message-ID: <20061202225833.B368CB6BBA@bat.berlios.de>
+
+This is the Postfix program at host bat.berlios.de.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+			The Postfix program
+
+<mtanev at csua.berkeley.edu>: host soda.csua.berkeley.edu[128.32.112.233] said:
+    553 5.3.0 <mtanev at csua.berkeley.edu>... Account disabled due to inactivity.
+    Sorry (in reply to RCPT TO command)
+-------------- next part --------------
+An embedded message was scrubbed...
+From: genkdesvn-bugs at bat.berlios.de
+Subject: [genkdesvn 0000127]: kghostview fails build
+Date: Sat, 2 Dec 2006 23:53:33 +0100
+Size: 3762
+URL: <https://lists.berlios.de/pipermail/genkdesvn-bugs/attachments/20061202/ee86f396/attachment.mht>
+
+From MAILER-DAEMON at bat.berlios.de  Mon Dec  4 01:33:59 2006
+From: MAILER-DAEMON at bat.berlios.de (Mail Delivery System)
+Date: Mon,  4 Dec 2006 01:33:59 +0100 (CET)
+Subject: [genkdesvn-bugs] Undelivered Mail Returned to Sender
+Message-ID: <20061204003359.0183AB3D4A@bat.berlios.de>
+
+This is the Postfix program at host bat.berlios.de.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+			The Postfix program
+
+<mtanev at csua.berkeley.edu>: host soda.csua.berkeley.edu[128.32.112.233] said:
+    553 5.3.0 <mtanev at csua.berkeley.edu>... Account disabled due to inactivity.
+    Sorry (in reply to RCPT TO command)
+-------------- next part --------------
+An embedded message was scrubbed...
+From: genkdesvn-bugs at bat.berlios.de
+Subject: [genkdesvn 0000128]: showimg ebuild needs to depend on exiv2
+Date: Mon, 4 Dec 2006 01:28:45 +0100
+Size: 2780
+URL: <https://lists.berlios.de/pipermail/genkdesvn-bugs/attachments/20061204/aa272e9c/attachment.mht>
+
+From MAILER-DAEMON at bat.berlios.de  Mon Dec  4 04:05:31 2006
+From: MAILER-DAEMON at bat.berlios.de (Mail Delivery System)
+Date: Mon,  4 Dec 2006 04:05:31 +0100 (CET)
+Subject: [genkdesvn-bugs] Undelivered Mail Returned to Sender
+Message-ID: <20061204030531.58029B75F8@bat.berlios.de>
+
+This is the Postfix program at host bat.berlios.de.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+			The Postfix program
+
+<mtanev at csua.berkeley.edu>: host soda.csua.berkeley.edu[128.32.112.233] said:
+    553 5.3.0 <mtanev at csua.berkeley.edu>... Account disabled due to inactivity.
+    Sorry (in reply to RCPT TO command)
+-------------- next part --------------
+An embedded message was scrubbed...
+From: genkdesvn-bugs at bat.berlios.de
+Subject: [genkdesvn 0000129]: kalyptus ebuild fails
+Date: Mon, 4 Dec 2006 04:00:30 +0100
+Size: 3344
+URL: <https://lists.berlios.de/pipermail/genkdesvn-bugs/attachments/20061204/79e96459/attachment.mht>
+
+From MAILER-DAEMON at bat.berlios.de  Mon Dec  4 04:47:31 2006
+From: MAILER-DAEMON at bat.berlios.de (Mail Delivery System)
+Date: Mon,  4 Dec 2006 04:47:31 +0100 (CET)
+Subject: [genkdesvn-bugs] Undelivered Mail Returned to Sender
+Message-ID: <20061204034731.AE19FB6F19@bat.berlios.de>
+
+This is the Postfix program at host bat.berlios.de.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+			The Postfix program
+
+<mtanev at csua.berkeley.edu>: host soda.csua.berkeley.edu[128.32.112.233] said:
+    553 5.3.0 <mtanev at csua.berkeley.edu>... Account disabled due to inactivity.
+    Sorry (in reply to RCPT TO command)
+-------------- next part --------------
+An embedded message was scrubbed...
+From: genkdesvn-bugs at bat.berlios.de
+Subject: [genkdesvn 0000130]: dcoppython can't find marshal_funcs.h
+Date: Mon, 4 Dec 2006 04:42:29 +0100
+Size: 3895
+URL: <https://lists.berlios.de/pipermail/genkdesvn-bugs/attachments/20061204/3dbf5963/attachment.mht>
+
+From MAILER-DAEMON at bat.berlios.de  Tue Dec  5 00:15:07 2006
+From: MAILER-DAEMON at bat.berlios.de (Mail Delivery System)
+Date: Tue,  5 Dec 2006 00:15:07 +0100 (CET)
+Subject: [genkdesvn-bugs] Undelivered Mail Returned to Sender
+Message-ID: <20061204231507.5B206B446A@bat.berlios.de>
+
+This is the Postfix program at host bat.berlios.de.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+			The Postfix program
+
+<mtanev at csua.berkeley.edu>: host soda.csua.berkeley.edu[128.32.112.233] said:
+    553 5.3.0 <mtanev at csua.berkeley.edu>... Account disabled due to inactivity.
+    Sorry (in reply to RCPT TO command)
+-------------- next part --------------
+An embedded message was scrubbed...
+From: genkdesvn-bugs at bat.berlios.de
+Subject: [genkdesvn 0000131]: kspread fails build
+Date: Tue, 5 Dec 2006 00:10:03 +0100
+Size: 4709
+URL: <https://lists.berlios.de/pipermail/genkdesvn-bugs/attachments/20061205/17497383/attachment.mht>
+
+From MAILER-DAEMON at bat.berlios.de  Tue Dec  5 15:12:17 2006
+From: MAILER-DAEMON at bat.berlios.de (Mail Delivery System)
+Date: Tue,  5 Dec 2006 15:12:17 +0100 (CET)
+Subject: [genkdesvn-bugs] Undelivered Mail Returned to Sender
+Message-ID: <20061205141217.AC5A7BF631@bat.berlios.de>
+
+This is the Postfix program at host bat.berlios.de.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+			The Postfix program
+
+<mtanev at csua.berkeley.edu>: host soda.csua.berkeley.edu[128.32.112.233] said:
+    553 5.3.0 <mtanev at csua.berkeley.edu>... Account disabled due to inactivity.
+    Sorry (in reply to RCPT TO command)
+-------------- next part --------------
+An embedded message was scrubbed...
+From: genkdesvn-bugs at bat.berlios.de
+Subject: [genkdesvn 0000132]: amarok build broken
+Date: Tue, 5 Dec 2006 15:07:07 +0100
+Size: 8785
+URL: <https://lists.berlios.de/pipermail/genkdesvn-bugs/attachments/20061205/7444aab1/attachment.mht>
+
+From MAILER-DAEMON at bat.berlios.de  Tue Dec  5 15:17:29 2006
+From: MAILER-DAEMON at bat.berlios.de (Mail Delivery System)
+Date: Tue,  5 Dec 2006 15:17:29 +0100 (CET)
+Subject: [genkdesvn-bugs] Undelivered Mail Returned to Sender
+Message-ID: <20061205141729.D8EF1C0B5C@bat.berlios.de>
+
+This is the Postfix program at host bat.berlios.de.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+			The Postfix program
+
+<mtanev at csua.berkeley.edu>: host soda.csua.berkeley.edu[128.32.112.233] said:
+    553 5.3.0 <mtanev at csua.berkeley.edu>... Account disabled due to inactivity.
+    Sorry (in reply to RCPT TO command)
+-------------- next part --------------
+An embedded message was scrubbed...
+From: genkdesvn-bugs at bat.berlios.de
+Subject: [genkdesvn 0000133]: k3b looks for use flag that isn't there
+Date: Tue, 5 Dec 2006 15:12:25 +0100
+Size: 3521
+URL: <https://lists.berlios.de/pipermail/genkdesvn-bugs/attachments/20061205/db30f8d5/attachment.mht>
+

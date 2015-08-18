@@ -1,0 +1,52 @@
+From MAILER-DAEMON at unicorn.berlios.de  Tue Mar 14 13:16:40 2006
+From: MAILER-DAEMON at unicorn.berlios.de (Mail Delivery Subsystem)
+Date: Tue, 14 Mar 2006 13:16:40 +0100 (CET)
+Subject: [genkdesvn-bugs] Warning: could not send message for past 4 hours
+Message-ID: <200603141216.k2ECFqCr018100@unicorn.berlios.de>
+
+    **********************************************
+    **      THIS IS A WARNING MESSAGE ONLY      **
+    **  YOU DO NOT NEED TO RESEND YOUR MESSAGE  **
+    **********************************************
+
+The original message was received at Mon, 13 Mar 2006 23:37:13 +0100 (CET)
+from wwwrun at localhost
+
+   ----- Transcript of session follows -----
+bonkie at skynet.be... Deferred: Connection refused by [127.0.0.1]
+Warning: message still undelivered after 4 hours
+Will keep trying until message is 5 days old
+-------------- next part --------------
+An embedded message was scrubbed...
+From: genkdesvn-bugs at bat.berlios.de
+Subject: [genkdesvn 0000098]: Add flag to support aac tags
+Date: Mon, 13 Mar 2006 23:37:13 +0100
+Size: 3092
+URL: <https://lists.berlios.de/pipermail/genkdesvn-bugs/attachments/20060314/d33c71c8/attachment.mht>
+
+From MAILER-DAEMON at unicorn.berlios.de  Tue Mar 14 13:16:40 2006
+From: MAILER-DAEMON at unicorn.berlios.de (Mail Delivery Subsystem)
+Date: Tue, 14 Mar 2006 13:16:40 +0100 (CET)
+Subject: [genkdesvn-bugs] Warning: could not send message for past 4 hours
+Message-ID: <200603141216.k2ECGbBU018228@unicorn.berlios.de>
+
+    **********************************************
+    **      THIS IS A WARNING MESSAGE ONLY      **
+    **  YOU DO NOT NEED TO RESEND YOUR MESSAGE  **
+    **********************************************
+
+The original message was received at Mon, 13 Mar 2006 23:37:13 +0100 (CET)
+from wwwrun at localhost
+
+   ----- Transcript of session follows -----
+Merlin-TC at web.de... Deferred: Connection refused by [127.0.0.1]
+Warning: message still undelivered after 4 hours
+Will keep trying until message is 5 days old
+-------------- next part --------------
+An embedded message was scrubbed...
+From: genkdesvn-bugs at bat.berlios.de
+Subject: [genkdesvn 0000098]: Add flag to support aac tags
+Date: Mon, 13 Mar 2006 23:37:12 +0100
+Size: 3092
+URL: <https://lists.berlios.de/pipermail/genkdesvn-bugs/attachments/20060314/b67f84d2/attachment.mht>
+

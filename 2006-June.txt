@@ -1,0 +1,115 @@
+From MAILER-DAEMON at unicorn.berlios.de  Fri Jun 16 07:59:35 2006
+From: MAILER-DAEMON at unicorn.berlios.de (Mail Delivery Subsystem)
+Date: Fri, 16 Jun 2006 07:59:35 +0200 (CEST)
+Subject: [genkdesvn-bugs] Returned mail: see transcript for details
+Message-ID: <200606160559.k5G5xZht009699@unicorn.berlios.de>
+
+The original message was received at Fri, 16 Jun 2006 07:59:35 +0200 (CEST)
+from localhost [127.0.0.1]
+
+   ----- The following addresses had permanent fatal errors -----
+<mikael.lammentausta at students.savonia-amk.fi>
+    (reason: 550 Host unknown)
+
+   ----- Transcript of session follows -----
+550 5.1.2 <mikael.lammentausta at students.savonia-amk.fi>... Host unknown (Name server: students.savonia-amk.fi: host not found)
+-------------- next part --------------
+An embedded message was scrubbed...
+From: genkdesvn-bugs at bat.berlios.de
+Subject: [Gentoo KDE SVN Bugtracker] Account registration
+Date: Fri, 16 Jun 2006 07:59:31 +0200
+Size: 1382
+URL: <https://lists.berlios.de/pipermail/genkdesvn-bugs/attachments/20060616/45520469/attachment.mht>
+
+From MAILER-DAEMON at unicorn.berlios.de  Fri Jun 16 10:57:30 2006
+From: MAILER-DAEMON at unicorn.berlios.de (Mail Delivery Subsystem)
+Date: Fri, 16 Jun 2006 10:57:30 +0200 (CEST)
+Subject: [genkdesvn-bugs] Returned mail: see transcript for details
+Message-ID: <200606160857.k5G8vUht019245@unicorn.berlios.de>
+
+The original message was received at Fri, 16 Jun 2006 10:57:30 +0200 (CEST)
+from localhost [127.0.0.1]
+
+   ----- The following addresses had permanent fatal errors -----
+<mikael.lammentausta at students.savonia-amk.fi>
+    (reason: 550 Host unknown)
+
+   ----- Transcript of session follows -----
+550 5.1.2 <mikael.lammentausta at students.savonia-amk.fi>... Host unknown (Name server: students.savonia-amk.fi: host not found)
+-------------- next part --------------
+An embedded message was scrubbed...
+From: genkdesvn-bugs at bat.berlios.de
+Subject: [Gentoo KDE SVN Bugtracker] Password Reset
+Date: Fri, 16 Jun 2006 10:57:30 +0200
+Size: 1366
+URL: <https://lists.berlios.de/pipermail/genkdesvn-bugs/attachments/20060616/b5991b38/attachment.mht>
+
+From MAILER-DAEMON at unicorn.berlios.de  Mon Jun 19 04:39:26 2006
+From: MAILER-DAEMON at unicorn.berlios.de (Mail Delivery Subsystem)
+Date: Mon, 19 Jun 2006 04:39:26 +0200 (CEST)
+Subject: [genkdesvn-bugs] Returned mail: see transcript for details
+Message-ID: <200606190239.k5J2dQht023321@unicorn.berlios.de>
+
+The original message was received at Mon, 19 Jun 2006 04:39:25 +0200 (CEST)
+from localhost [127.0.0.1]
+
+   ----- The following addresses had permanent fatal errors -----
+<mikael.lammentausta at students.savonia-amk.fi>
+    (reason: 550 Host unknown)
+
+   ----- Transcript of session follows -----
+550 5.1.2 <mikael.lammentausta at students.savonia-amk.fi>... Host unknown (Name server: students.savonia-amk.fi: host not found)
+-------------- next part --------------
+An embedded message was scrubbed...
+From: genkdesvn-bugs at bat.berlios.de
+Subject: [Gentoo KDE SVN Bugtracker] Password Reset
+Date: Mon, 19 Jun 2006 04:39:23 +0200
+Size: 1366
+URL: <https://lists.berlios.de/pipermail/genkdesvn-bugs/attachments/20060619/e811fe9f/attachment.mht>
+
+From MAILER-DAEMON at unicorn.berlios.de  Mon Jun 19 05:20:03 2006
+From: MAILER-DAEMON at unicorn.berlios.de (Mail Delivery Subsystem)
+Date: Mon, 19 Jun 2006 05:20:03 +0200 (CEST)
+Subject: [genkdesvn-bugs] Returned mail: see transcript for details
+Message-ID: <200606190320.k5J3K3ht025257@unicorn.berlios.de>
+
+The original message was received at Mon, 19 Jun 2006 05:20:03 +0200 (CEST)
+from localhost [127.0.0.1]
+
+   ----- The following addresses had permanent fatal errors -----
+<mikael.lammentausta at students.savonia-amk.fi>
+    (reason: 550 Host unknown)
+
+   ----- Transcript of session follows -----
+550 5.1.2 <mikael.lammentausta at students.savonia-amk.fi>... Host unknown (Name server: students.savonia-amk.fi: host not found)
+-------------- next part --------------
+An embedded message was scrubbed...
+From: genkdesvn-bugs at bat.berlios.de
+Subject: [Gentoo KDE SVN Bugtracker] Password Reset
+Date: Mon, 19 Jun 2006 05:20:03 +0200
+Size: 1366
+URL: <https://lists.berlios.de/pipermail/genkdesvn-bugs/attachments/20060619/cc73b541/attachment.mht>
+
+From MAILER-DAEMON at unicorn.berlios.de  Mon Jun 19 05:23:54 2006
+From: MAILER-DAEMON at unicorn.berlios.de (Mail Delivery Subsystem)
+Date: Mon, 19 Jun 2006 05:23:54 +0200 (CEST)
+Subject: [genkdesvn-bugs] Returned mail: see transcript for details
+Message-ID: <200606190323.k5J3Nsht025425@unicorn.berlios.de>
+
+The original message was received at Mon, 19 Jun 2006 05:23:54 +0200 (CEST)
+from localhost [127.0.0.1]
+
+   ----- The following addresses had permanent fatal errors -----
+<mikael.lammentausta at students.savonia-amk.fi>
+    (reason: 550 Host unknown)
+
+   ----- Transcript of session follows -----
+550 5.1.2 <mikael.lammentausta at students.savonia-amk.fi>... Host unknown (Name server: students.savonia-amk.fi: host not found)
+-------------- next part --------------
+An embedded message was scrubbed...
+From: genkdesvn-bugs at bat.berlios.de
+Subject: [Gentoo KDE SVN Bugtracker] Account registration
+Date: Mon, 19 Jun 2006 05:23:54 +0200
+Size: 1383
+URL: <https://lists.berlios.de/pipermail/genkdesvn-bugs/attachments/20060619/45c94043/attachment.mht>
+
